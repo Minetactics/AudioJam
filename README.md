@@ -1,3 +1,3 @@
 # AudioJam
 
-Was forked [https://github.com/juliomoreau/AudioJam](here).
+Was forked [here](https://github.com/juliomoreau/AudioJam).
